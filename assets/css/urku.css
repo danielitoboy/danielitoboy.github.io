@@ -8,6 +8,7 @@
 @charset "UTF-8";
 body {
   margin: 0;
+  background-color: #5e8dde  ;
 }
 
 .rk-container {
@@ -53,7 +54,7 @@ body {
 }
 
 .rk-header {
-  background-color: #c83333;
+  background-color: #26c33b;
   position: relative;
   z-index: 5;
 }
